@@ -17,7 +17,7 @@ de uma função com um número indefinido de parâmetros e sua chamada.
    funções com vários paraâmetros.
 2. Modifique o compilador de Fun para Π IR de forma que declarações e
    expressões apropriadas sejam geradas a partir do código Fun.
-3. Teste sua estensão implementando versões que utilizam recursão de
+3. Teste sua estensão implementando versões que utilizem recursão de
    cauda (_tail recursion_) das funções ```fat``` e ```fib```. Modifique também o
    exemplo da função ```apply```.
    
